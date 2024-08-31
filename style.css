@@ -506,7 +506,7 @@ footer {
     font-weight: var(--font-weight-normal);
 
 }
-.footer__div p
+footer p
 {
     text-align:center;
     color: var(--pure-white);
